@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/sh
 
 TRAC_DIR="/var/www/trac/"
 BACKUPS_DIR="/var/backups/trac"
